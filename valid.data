@@ -1,0 +1,460 @@
+__start_entity__ Aarhus __end_entity__ __start_type__ leaderName __end_type__ __start_value__ Jacob Bundsgaard __end_value__ 
+__start_entity__ Aarhus Airport __end_entity__ __start_type__ runwayLength __end_type__ __start_value__ 2702.0 __end_value__ 
+__start_entity__ Adirondack Regional Airport __end_entity__ __start_type__ elevationAboveTheSeaLevel_(in_metres) __end_type__ __start_value__ 507 __end_value__ 
+__start_entity__ Adirondack Regional Airport __end_entity__ __start_type__ location __end_type__ __start_value__ Harrietstown, New York __end_value__ 
+__start_entity__ Adolfo Suárez Madrid–Barajas Airport __end_entity__ __start_type__ location __end_type__ __start_value__ San Sebastián de los Reyes __end_value__ 
+__start_entity__ Adolfo Suárez Madrid–Barajas Airport __end_entity__ __start_type__ runwayName __end_type__ __start_value__ 14L/32R __end_value__ 
+__start_entity__ Adolfo Suárez Madrid–Barajas Airport __end_entity__ __start_type__ runwayName __end_type__ __start_value__ 14R/32L __end_value__ 
+__start_entity__ Afonso Pena International Airport __end_entity__ __start_type__ operatingOrganisation __end_type__ __start_value__ Infraero __end_value__ 
+__start_entity__ Agra Airport __end_entity__ __start_type__ location __end_type__ __start_value__ Agra __end_value__ 
+__start_entity__ Al-Taqaddum Air Base __end_entity__ __start_type__ elevationAboveTheSeaLevel_(in_metres) __end_type__ __start_value__ 84.0 __end_value__ 
+__start_entity__ Alderney Airport __end_entity__ __start_type__ cityServed __end_type__ __start_value__ Alderney __end_value__ 
+__start_entity__ Allama Iqbal International Airport __end_entity__ __start_type__ runwayName __end_type__ __start_value__ 18R/36L __end_value__ 
+__start_entity__ Alpena County Regional Airport __end_entity__ __start_type__ runwayLength __end_type__ __start_value__ 1533.0 __end_value__ 
+__start_entity__ Alpena County Regional Airport __end_entity__ __start_type__ runwayName __end_type__ __start_value__ 1/19 __end_value__ 
+__start_entity__ Amsterdam Airport Schiphol __end_entity__ __start_type__ cityServed __end_type__ __start_value__ Amsterdam __end_value__ 
+__start_entity__ Andrews County, Texas __end_entity__ __start_type__ countySeat __end_type__ __start_value__ Andrews, Texas __end_value__ 
+__start_entity__ Andrews County Airport __end_entity__ __start_type__ cityServed __end_type__ __start_value__ Andrews, Texas __end_value__ 
+__start_entity__ Andrews County Airport __end_entity__ __start_type__ runwayName __end_type__ __start_value__ 11/29 __end_value__ 
+__start_entity__ Andrews County Airport __end_entity__ __start_type__ runwayName __end_type__ __start_value__ Helipad __end_value__ 
+__start_entity__ Angola International Airport __end_entity__ __start_type__ cityServed __end_type__ __start_value__ Luanda __end_value__ 
+__start_entity__ Ardmore Airport (New Zealand) __end_entity__ __start_type__ location __end_type__ __start_value__ Auckland __end_value__ 
+__start_entity__ Athens __end_entity__ __start_type__ mayor __end_type__ __start_value__ Giorgos Kaminis __end_value__ 
+__start_entity__ Athens International Airport __end_entity__ __start_type__ location __end_type__ __start_value__ Spata __end_value__ 
+__start_entity__ Belgium __end_entity__ __start_type__ language __end_type__ __start_value__ German language __end_value__ 
+__start_entity__ Belgium __end_entity__ __start_type__ leaderName __end_type__ __start_value__ Philippe of Belgium __end_value__ 
+__start_entity__ Denmark __end_entity__ __start_type__ capital __end_type__ __start_value__ Copenhagen __end_value__ 
+__start_entity__ Denmark __end_entity__ __start_type__ leaderName __end_type__ __start_value__ Lars Løkke Rasmussen __end_value__ 
+__start_entity__ Flemish Region __end_entity__ __start_type__ leaderName __end_type__ __start_value__ Flemish Government __end_value__ 
+__start_entity__ Greece __end_entity__ __start_type__ language __end_type__ __start_value__ Greek language __end_value__ 
+__start_entity__ Greece __end_entity__ __start_type__ leaderName __end_type__ __start_value__ Nikos Voutsis __end_value__ 
+__start_entity__ Harrietstown, New York __end_entity__ __start_type__ isPartOf __end_type__ __start_value__ United States __end_value__ 
+__start_entity__ Pakistan __end_entity__ __start_type__ leaderName __end_type__ __start_value__ Anwar Zaheer Jamali __end_value__ 
+__start_entity__ Paracuellos de Jarama __end_entity__ __start_type__ isPartOf __end_type__ __start_value__ Community of Madrid __end_value__ 
+__start_entity__ Port Authority of New York and New Jersey __end_entity__ __start_type__ headquarter __end_type__ __start_value__ Four World Trade Center __end_value__ 
+__start_entity__ San Sebastián de los Reyes __end_entity__ __start_type__ country __end_type__ __start_value__ Spain __end_value__ 
+__start_entity__ Saranac Lake, New York __end_entity__ __start_type__ isPartOf __end_type__ __start_value__ United States __end_value__ 
+__start_entity__ South Jersey Transportation Authority __end_entity__ __start_type__ chief __end_type__ __start_value__ Stephen Dilts __end_value__ 
+__start_entity__ Aaron Bertram __end_entity__ __start_type__ activeYearsStartYear __end_type__ __start_value__ 1998 __end_value__ 
+__start_entity__ Aaron Deer __end_entity__ __start_type__ associatedBand/associatedMusicalArtist __end_type__ __start_value__ The Horns of Happiness __end_value__ 
+__start_entity__ Aaron Turner __end_entity__ __start_type__ genre __end_type__ __start_value__ Avant-garde metal __end_value__ 
+__start_entity__ Aaron Turner __end_entity__ __start_type__ genre __end_type__ __start_value__ Black metal __end_value__ 
+__start_entity__ Aaron Turner __end_entity__ __start_type__ origin __end_type__ __start_value__ Boston __end_value__ 
+__start_entity__ Abradab __end_entity__ __start_type__ associatedBand/associatedMusicalArtist __end_type__ __start_value__ Magik (rapper) __end_value__ 
+__start_entity__ Abradab __end_entity__ __start_type__ background __end_type__ __start_value__ solo singer __end_value__ 
+__start_entity__ Ace Wilder __end_entity__ __start_type__ birthDate __end_type__ __start_value__ 1982-07-23 __end_value__ 
+__start_entity__ Ace Wilder __end_entity__ __start_type__ recordLabel __end_type__ __start_value__ EMI Records __end_value__ 
+__start_entity__ Agustín Barboza __end_entity__ __start_type__ recordLabel __end_type__ __start_value__ Philips Records __end_value__ 
+__start_entity__ Alan Frew __end_entity__ __start_type__ associatedBand/associatedMusicalArtist __end_type__ __start_value__ Glass Tiger __end_value__ 
+__start_entity__ Albennie Jones __end_entity__ __start_type__ birthPlace __end_type__ __start_value__ Errata, Mississippi __end_value__ 
+__start_entity__ Aleksandra Kovač __end_entity__ __start_type__ associatedBand/associatedMusicalArtist __end_type__ __start_value__ Kornelije Kovač __end_value__ 
+__start_entity__ Aleksandra Kovač __end_entity__ __start_type__ background __end_type__ __start_value__ solo singer __end_value__ 
+__start_entity__ Aleksandra Kovač __end_entity__ __start_type__ genre __end_type__ __start_value__ Soul music __end_value__ 
+__start_entity__ Alfred Garth Jones __end_entity__ __start_type__ deathPlace __end_type__ __start_value__ London __end_value__ 
+__start_entity__ Alfredo Zitarrosa __end_entity__ __start_type__ associatedBand/associatedMusicalArtist __end_type__ __start_value__ Hilario Pérez __end_value__ 
+__start_entity__ Alfredo Zitarrosa __end_entity__ __start_type__ genre __end_type__ __start_value__ Milonga (music) __end_value__ 
+__start_entity__ Alfredo Zitarrosa __end_entity__ __start_type__ recordLabel __end_type__ __start_value__ Movieplay __end_value__ 
+__start_entity__ Alison O'Donnell __end_entity__ __start_type__ activeYearsStartYear __end_type__ __start_value__ 1963 __end_value__ 
+__start_entity__ Allen Forrest __end_entity__ __start_type__ genre __end_type__ __start_value__ Pop music __end_value__ 
+__start_entity__ Anders Osborne __end_entity__ __start_type__ recordLabel __end_type__ __start_value__ Alligator Records __end_value__ 
+__start_entity__ Anders Osborne __end_entity__ __start_type__ recordLabel __end_type__ __start_value__ Shanachie Records __end_value__ 
+__start_entity__ Andrew Rayel __end_entity__ __start_type__ associatedBand/associatedMusicalArtist __end_type__ __start_value__ Jwaydan Moyine __end_value__ 
+__start_entity__ Andrew Rayel __end_entity__ __start_type__ birthPlace __end_type__ __start_value__ Chișinău, Moldova __end_value__ 
+__start_entity__ Andrew White (musician) __end_entity__ __start_type__ genre __end_type__ __start_value__ Alternative rock __end_value__ 
+__start_entity__ Asunción __end_entity__ __start_type__ isPartOf __end_type__ __start_value__ Gran Asunción __end_value__ 
+__start_entity__ Deram Records __end_entity__ __start_type__ location __end_type__ __start_value__ London __end_value__ 
+__start_entity__ Funk __end_entity__ __start_type__ musicFusionGenre __end_type__ __start_value__ Afrobeat __end_value__ 
+__start_entity__ Hip hop music __end_entity__ __start_type__ musicSubgenre __end_type__ __start_value__ Gangsta rap __end_value__ 
+__start_entity__ Jazz __end_entity__ __start_type__ stylisticOrigin __end_type__ __start_value__ Blues __end_value__ 
+__start_entity__ RCA Records __end_entity__ __start_type__ distributingCompany __end_type__ __start_value__ Legacy Recordings __end_value__ 
+__start_entity__ Twilight (band) __end_entity__ __start_type__ genre __end_type__ __start_value__ Black metal __end_value__ 
+__start_entity__ United Kingdom __end_entity__ __start_type__ demonym __end_type__ __start_value__ British people __end_value__ 
+__start_entity__ Alan Shepard __end_entity__ __start_type__ awards __end_type__ __start_value__ Distinguished Service Medal (United States Navy) __end_value__ 
+__start_entity__ Alan Shepard __end_entity__ __start_type__ deathPlace __end_type__ __start_value__ California __end_value__ 
+__start_entity__ Apollo 11 __end_entity__ __start_type__ backup pilot __end_type__ __start_value__ William Anders __end_value__ 
+__start_entity__ Apollo 14 __end_entity__ __start_type__ operator __end_type__ __start_value__ NASA __end_value__ 
+__start_entity__ Apollo 8 __end_entity__ __start_type__ operator __end_type__ __start_value__ NASA __end_value__ 
+__start_entity__ Buzz Aldrin __end_entity__ __start_type__ nationality __end_type__ __start_value__ United States __end_value__ 
+__start_entity__ Elliot See __end_entity__ __start_type__ occupation __end_type__ __start_value__ Test pilot __end_value__ 
+__start_entity__ University of Texas at Austin __end_entity__ __start_type__ affiliations __end_type__ __start_value__ University of Texas System __end_value__ 
+__start_entity__ University of Texas at Austin __end_entity__ __start_type__ mascot __end_type__ __start_value__ Hook 'em (mascot) __end_value__ 
+__start_entity__ A.C. Milan __end_entity__ __start_type__ chairman __end_type__ __start_value__ Silvio Berlusconi __end_value__ 
+__start_entity__ Aaron Boogaard __end_entity__ __start_type__ birthPlace __end_type__ __start_value__ Canada __end_value__ 
+__start_entity__ Abel Hernández __end_entity__ __start_type__ club __end_type__ __start_value__ Uruguay Olympic football team __end_value__ 
+__start_entity__ Abel Hernández __end_entity__ __start_type__ club __end_type__ __start_value__ Uruguay national football team __end_value__ 
+__start_entity__ Abner (footballer) __end_entity__ __start_type__ club __end_type__ __start_value__ C.D. FAS __end_value__ 
+__start_entity__ Adam Maher __end_entity__ __start_type__ birthPlace __end_type__ __start_value__ Ait Ikkou, Morocco __end_value__ 
+__start_entity__ Adam Maher __end_entity__ __start_type__ birthPlace __end_type__ __start_value__ Diemen __end_value__ 
+__start_entity__ Adam McQuaid __end_entity__ __start_type__ birthPlace __end_type__ __start_value__ Charlottetown __end_value__ 
+__start_entity__ Ahmad Kadhim Assad __end_entity__ __start_type__ birthPlace __end_type__ __start_value__ Iraq __end_value__ 
+__start_entity__ Ahmad Kadhim Assad __end_entity__ __start_type__ club __end_type__ __start_value__ PAS Tehran F.C. __end_value__ 
+__start_entity__ Akeem Ayers __end_entity__ __start_type__ position __end_type__ __start_value__ Linebacker __end_value__ 
+__start_entity__ Akeem Priestley __end_entity__ __start_type__ club __end_type__ __start_value__ FK Mughan __end_value__ 
+__start_entity__ Akeem Priestley __end_entity__ __start_type__ youthclub __end_type__ __start_value__ Jacksonville Dolphins __end_value__ 
+__start_entity__ Al-Khor Sports Club __end_entity__ __start_type__ league __end_type__ __start_value__ Qatar Stars League __end_value__ 
+__start_entity__ Alaa Abdul-Zahra __end_entity__ __start_type__ birthPlace __end_type__ __start_value__ Baghdad __end_value__ 
+__start_entity__ Alan Martin (footballer) __end_entity__ __start_type__ club __end_type__ __start_value__ Accrington Stanley F.C. __end_value__ 
+__start_entity__ Alan Martin (footballer) __end_entity__ __start_type__ club __end_type__ __start_value__ Crewe Alexandra F.C. __end_value__ 
+__start_entity__ Aleksander Barkov, Jr. __end_entity__ __start_type__ birthPlace __end_type__ __start_value__ Finland __end_value__ 
+__start_entity__ Aleksander Barkov, Jr. __end_entity__ __start_type__ club __end_type__ __start_value__ Florida Panthers __end_value__ 
+__start_entity__ Aleksander Barkov, Jr. __end_entity__ __start_type__ league __end_type__ __start_value__ National Hockey League __end_value__ 
+__start_entity__ Aleksandre Guruli __end_entity__ __start_type__ club __end_type__ __start_value__ FC Samtredia __end_value__ 
+__start_entity__ Alex Plante __end_entity__ __start_type__ birthPlace __end_type__ __start_value__ Manitoba __end_value__ 
+__start_entity__ Alex Plante __end_entity__ __start_type__ height __end_type__ __start_value__ 1.9304 __end_value__ 
+__start_entity__ Brandon, Manitoba __end_entity__ __start_type__ leaderName __end_type__ __start_value__ Drew Caldwell __end_value__ 
+__start_entity__ Budapest __end_entity__ __start_type__ country __end_type__ __start_value__ Hungary __end_value__ 
+__start_entity__ Canada __end_entity__ __start_type__ language __end_type__ __start_value__ Inuktitut __end_value__ 
+__start_entity__ Columbus Blue Jackets __end_entity__ __start_type__ city __end_type__ __start_value__ Columbus, Ohio __end_value__ 
+__start_entity__ FC Terek Grozny __end_entity__ __start_type__ ground __end_type__ __start_value__ Grozny __end_value__ 
+__start_entity__ FC Tom Tomsk __end_entity__ __start_type__ league __end_type__ __start_value__ Russian Football National League __end_value__ 
+__start_entity__ FC Torpedo Moscow __end_entity__ __start_type__ manager __end_type__ __start_value__ Valery Petrakov __end_value__ 
+__start_entity__ Florida Panthers __end_entity__ __start_type__ generalManager __end_type__ __start_value__ Dale Tallon __end_value__ 
+__start_entity__ Maccabi Tel Aviv B.C. __end_entity__ __start_type__ coach __end_type__ __start_value__ Žan Tabak __end_value__ 
+__start_entity__ Olympique Lyonnais __end_entity__ __start_type__ ground __end_type__ __start_value__ Parc Olympique Lyonnais __end_value__ 
+__start_entity__ Peñarol __end_entity__ __start_type__ manager __end_type__ __start_value__ Jorge Orosmán da Silva __end_value__ 
+__start_entity__ Point Fortin __end_entity__ __start_type__ country __end_type__ __start_value__ Trinidad __end_value__ 
+__start_entity__ 103 Colmore Row __end_entity__ __start_type__ architect __end_type__ __start_value__ John Madin __end_value__ 
+__start_entity__ 103 Colmore Row __end_entity__ __start_type__ location __end_type__ __start_value__ Colmore Row __end_value__ 
+__start_entity__ 11 Diagonal Street __end_entity__ __start_type__ completionDate __end_type__ __start_value__ 1983 __end_value__ 
+__start_entity__ 200 Public Square __end_entity__ __start_type__ completionDate __end_type__ __start_value__ 1985 __end_value__ 
+__start_entity__ 20 Fenchurch Street __end_entity__ __start_type__ buildingStartDate __end_type__ __start_value__ January 2009 __end_value__ 
+__start_entity__ 20 Fenchurch Street __end_entity__ __start_type__ location __end_type__ __start_value__ United Kingdom __end_value__ 
+__start_entity__ 300 North LaSalle __end_entity__ __start_type__ floorCount __end_type__ __start_value__ 60 __end_value__ 
+__start_entity__ 3Arena __end_entity__ __start_type__ architect __end_type__ __start_value__ HOK SVE __end_value__ 
+__start_entity__ 3Arena __end_entity__ __start_type__ location __end_type__ __start_value__ East Link Bridge __end_value__ 
+__start_entity__ Adare Manor __end_entity__ __start_type__ buildingStartDate __end_type__ __start_value__ 1700 __end_value__ 
+__start_entity__ Adare Manor __end_entity__ __start_type__ country __end_type__ __start_value__ Republic of Ireland __end_value__ 
+__start_entity__ Akita Museum of Art __end_entity__ __start_type__ inaugurationDate __end_type__ __start_value__ 2013-09-28 __end_value__ 
+__start_entity__ Alan B. Miller Hall __end_entity__ __start_type__ currentTenants __end_type__ __start_value__ Mason School of Business __end_value__ 
+__start_entity__ Amdavad ni Gufa __end_entity__ __start_type__ architect __end_type__ __start_value__ B. V. Doshi __end_value__ 
+__start_entity__ Ampara Hospital __end_entity__ __start_type__ country __end_type__ __start_value__ Sri Lanka __end_value__ 
+__start_entity__ Asher and Mary Isabelle Richardson House __end_entity__ __start_type__ added to the National Register of Historic Places __end_type__ __start_value__ 1988-11-22 __end_value__ 
+__start_entity__ Asser Levy Public Baths __end_entity__ __start_type__ yearOfConstruction __end_type__ __start_value__ 1904 __end_value__ 
+__start_entity__ Birmingham __end_entity__ __start_type__ postalCode __end_type__ __start_value__ B postcode area __end_value__ 
+__start_entity__ Chicago __end_entity__ __start_type__ isPartOf __end_type__ __start_value__ DuPage County, Illinois __end_value__ 
+__start_entity__ Dublin __end_entity__ __start_type__ country __end_type__ __start_value__ Republic of Ireland __end_value__ 
+__start_entity__ Dublin __end_entity__ __start_type__ isPartOf __end_type__ __start_value__ Leinster __end_value__ 
+__start_entity__ India __end_entity__ __start_type__ leaderName __end_type__ __start_value__ Sumitra Mahajan __end_value__ 
+__start_entity__ Japan __end_entity__ __start_type__ ethnicGroup __end_type__ __start_value__ Brazilians in Japan __end_value__ 
+__start_entity__ Japan __end_entity__ __start_type__ leaderName __end_type__ __start_value__ Tarō Asō __end_value__ 
+__start_entity__ Marriott International __end_entity__ __start_type__ keyPerson __end_type__ __start_value__ Bill Marriott __end_value__ 
+__start_entity__ Republic of Ireland __end_entity__ __start_type__ language __end_type__ __start_value__ English language __end_value__ 
+__start_entity__ South Africa __end_entity__ __start_type__ capital __end_type__ __start_value__ Cape Town __end_value__ 
+__start_entity__ United Kingdom __end_entity__ __start_type__ capital __end_type__ __start_value__ London __end_value__ 
+__start_entity__ United States __end_entity__ __start_type__ ethnicGroup __end_type__ __start_value__ Native Americans in the United States __end_value__ 
+__start_entity__ United States __end_entity__ __start_type__ leaderName __end_type__ __start_value__ Paul Ryan __end_value__ 
+__start_entity__ (29075) 1950 DA __end_entity__ __start_type__ discoverer __end_type__ __start_value__ Carl A. Wirtanen __end_value__ 
+__start_entity__ (410777) 2009 FD __end_entity__ __start_type__ apoapsis __end_type__ __start_value__ 259776702.47055 (kilometres) __end_value__ 
+__start_entity__ (66063) 1998 RO1 __end_entity__ __start_type__ epoch __end_type__ __start_value__ 2013-11-04 __end_value__ 
+__start_entity__ (66391) 1999 KW4 __end_entity__ __start_type__ periapsis __end_type__ __start_value__ 29919600000.0 __end_value__ 
+__start_entity__ 101 Helena __end_entity__ __start_type__ mass __end_type__ __start_value__ 3.0 (kilograms) __end_value__ 
+__start_entity__ 101 Helena __end_entity__ __start_type__ orbitalPeriod __end_type__ __start_value__ 1516.6700000000003 (days) __end_value__ 
+__start_entity__ 1036 Ganymed __end_entity__ __start_type__ averageSpeed __end_type__ __start_value__ 16.86 (kilometrePerSeconds) __end_value__ 
+__start_entity__ 1036 Ganymed __end_entity__ __start_type__ temperature __end_type__ __start_value__ 160.0 (kelvins) __end_value__ 
+__start_entity__ 107 Camilla __end_entity__ __start_type__ discoverer __end_type__ __start_value__ F. Vilas __end_value__ 
+__start_entity__ 107 Camilla __end_entity__ __start_type__ discoverer __end_type__ __start_value__ N. R. Pogson __end_value__ 
+__start_entity__ 1089 Tama __end_entity__ __start_type__ escapeVelocity __end_type__ __start_value__ 0.0068 (kilometrePerSeconds) __end_value__ 
+__start_entity__ 1097 Vicia __end_entity__ __start_type__ rotationPeriod __end_type__ __start_value__ 95040.0 __end_value__ 
+__start_entity__ 1099 Figneria __end_entity__ __start_type__ escapeVelocity __end_type__ __start_value__ 0.0155 (kilometrePerSeconds) __end_value__ 
+__start_entity__ 1099 Figneria __end_entity__ __start_type__ mass __end_type__ __start_value__ 2.7 (kilograms) __end_value__ 
+__start_entity__ 109 Felicitas __end_entity__ __start_type__ periapsis __end_type__ __start_value__ 283326000000.0 __end_value__ 
+__start_entity__ 109 Felicitas __end_entity__ __start_type__ temperature __end_type__ __start_value__ 170.0 (kelvins) __end_value__ 
+__start_entity__ 10 Hygiea __end_entity__ __start_type__ orbitalPeriod __end_type__ __start_value__ 5.57 (days) __end_value__ 
+__start_entity__ 1101 Clematis __end_entity__ __start_type__ periapsis __end_type__ __start_value__ 445895000000.0 __end_value__ 
+__start_entity__ 110 Lydia __end_entity__ __start_type__ epoch __end_type__ __start_value__ 2006-12-31 __end_value__ 
+__start_entity__ 110 Lydia __end_entity__ __start_type__ periapsis __end_type__ __start_value__ 377016000000.0 __end_value__ 
+__start_entity__ N. R. Pogson __end_entity__ __start_type__ nationality __end_type__ __start_value__ England __end_value__ 
+__start_entity__ Abilene, Texas __end_entity__ __start_type__ areaCode __end_type__ __start_value__ 325 __end_value__ 
+__start_entity__ Abilene, Texas __end_entity__ __start_type__ isPartOf __end_type__ __start_value__ Texas __end_value__ 
+__start_entity__ Albany, Georgia __end_entity__ __start_type__ leaderTitle __end_type__ __start_value__ Mayor __end_value__ 
+__start_entity__ Albany, Oregon __end_entity__ __start_type__ areaTotal __end_type__ __start_value__ 45.97 (square kilometres) __end_value__ 
+__start_entity__ Albany, Oregon __end_entity__ __start_type__ country __end_type__ __start_value__ United States __end_value__ 
+__start_entity__ Albuquerque, New Mexico __end_entity__ __start_type__ leaderTitle __end_type__ __start_value__ State Senate __end_value__ 
+__start_entity__ Albuquerque, New Mexico __end_entity__ __start_type__ leaderTitle __end_type__ __start_value__ Albuquerque City Council __end_value__ 
+__start_entity__ Amarillo, Texas __end_entity__ __start_type__ country __end_type__ __start_value__ United States __end_value__ 
+__start_entity__ Amarillo, Texas __end_entity__ __start_type__ isPartOf __end_type__ __start_value__ Potter County, Texas __end_value__ 
+__start_entity__ Amarillo, Texas __end_entity__ __start_type__ isPartOf __end_type__ __start_value__ United States __end_value__ 
+__start_entity__ Anaheim, California __end_entity__ __start_type__ areaCode __end_type__ __start_value__ 657 __end_value__ 
+__start_entity__ Anderson, Indiana __end_entity__ __start_type__ isPartOf __end_type__ __start_value__ Adams, Fall Creek, Lafayette, Richland, Union __end_value__ 
+__start_entity__ Angola, Indiana __end_entity__ __start_type__ isPartOf __end_type__ __start_value__ Pleasant Township, Steuben County, Indiana __end_value__ 
+__start_entity__ Ann Arbor, Michigan __end_entity__ __start_type__ leaderTitle __end_type__ __start_value__ City Administrator __end_value__ 
+__start_entity__ Ann Arbor, Michigan __end_entity__ __start_type__ leaderTitle __end_type__ __start_value__ Mayor __end_value__ 
+__start_entity__ Ann Arbor, Michigan __end_entity__ __start_type__ populationDensity __end_type__ __start_value__ 1580.7 (inhabitants per square kilometre) __end_value__ 
+__start_entity__ Antioch, California __end_entity__ __start_type__ elevationAboveTheSeaLevel __end_type__ __start_value__ 13.0 __end_value__ 
+__start_entity__ Antioch, California __end_entity__ __start_type__ leaderTitle __end_type__ __start_value__ California's 11th State Assembly district __end_value__ 
+__start_entity__ Arlington, Texas __end_entity__ __start_type__ elevationAboveTheSeaLevel __end_type__ __start_value__ 184.0 __end_value__ 
+__start_entity__ Atlantic County, New Jersey __end_entity__ __start_type__ country __end_type__ __start_value__ United States __end_value__ 
+__start_entity__ Attica, Indiana __end_entity__ __start_type__ isPartOf __end_type__ __start_value__ Fountain County, Indiana __end_value__ 
+__start_entity__ Auburn, Alabama __end_entity__ __start_type__ isPartOf __end_type__ __start_value__ Alabama __end_value__ 
+__start_entity__ California __end_entity__ __start_type__ country __end_type__ __start_value__ United States __end_value__ 
+__start_entity__ Fulton County, Georgia __end_entity__ __start_type__ largestCity __end_type__ __start_value__ Atlanta __end_value__ 
+__start_entity__ Georgia (U.S. state) __end_entity__ __start_type__ country __end_type__ __start_value__ United States __end_value__ 
+__start_entity__ Indiana __end_entity__ __start_type__ capital __end_type__ __start_value__ Indianapolis __end_value__ 
+__start_entity__ Lee County, Alabama __end_entity__ __start_type__ state __end_type__ __start_value__ Alabama __end_value__ 
+__start_entity__ New Jersey __end_entity__ __start_type__ capital __end_type__ __start_value__ Trenton, New Jersey __end_value__ 
+__start_entity__ Potter County, Texas __end_entity__ __start_type__ state __end_type__ __start_value__ Texas __end_value__ 
+__start_entity__ Tarrant County, Texas __end_entity__ __start_type__ country __end_type__ __start_value__ United States __end_value__ 
+__start_entity__ Washtenaw County, Michigan __end_entity__ __start_type__ largestCity __end_type__ __start_value__ Ann Arbor, Michigan __end_value__ 
+__start_entity__ Asterix (comicsCharacter) __end_entity__ __start_type__ creator __end_type__ __start_value__ René Goscinny __end_value__ 
+__start_entity__ Auron (comicsCharacter) __end_entity__ __start_type__ creator __end_type__ __start_value__ Marv Wolfman __end_value__ 
+__start_entity__ Balder (comicsCharacter) __end_entity__ __start_type__ creator __end_type__ __start_value__ Jack Kirby __end_value__ 
+__start_entity__ Bananaman __end_entity__ __start_type__ broadcastedBy __end_type__ __start_value__ STV __end_value__ 
+__start_entity__ Bananaman __end_entity__ __start_type__ firstAired __end_type__ __start_value__ 1983-10-03 __end_value__ 
+__start_entity__ Bananaman __end_entity__ __start_type__ starring __end_type__ __start_value__ Bill Oddie __end_value__ 
+__start_entity__ Baymax __end_entity__ __start_type__ series __end_type__ __start_value__ Big Hero 6 (film) __end_value__ 
+__start_entity__ Bill Everett __end_entity__ __start_type__ award __end_type__ __start_value__ Eisner Award __end_value__ 
+__start_entity__ Bill Oddie __end_entity__ __start_type__ child __end_type__ __start_value__ Kate Hardie __end_value__ 
+__start_entity__ Bolt (comicsCharacter) __end_entity__ __start_type__ creator __end_type__ __start_value__ Dan Mishkin __end_value__ 
+__start_entity__ Bozo the Iron Man __end_entity__ __start_type__ fullName __end_type__ __start_value__ Hugh Hazzard __end_value__ 
+__start_entity__ John Buscema __end_entity__ __start_type__ award __end_type__ __start_value__ Eagle Award (comics) __end_value__ 
+__start_entity__ Marv Wolfman __end_entity__ __start_type__ award __end_type__ __start_value__ Eagle Award (comics) __end_value__ 
+__start_entity__ Ajoblanco __end_entity__ __start_type__ alternativeName __end_type__ __start_value__ Ajo blanco __end_value__ 
+__start_entity__ Ajoblanco __end_entity__ __start_type__ mainIngredients __end_type__ __start_value__ Bread, almonds, garlic, water, olive oil __end_value__ 
+__start_entity__ Arem-arem __end_entity__ __start_type__ region __end_type__ __start_value__ Nationwide in Indonesia, but more specific to Java __end_value__ 
+__start_entity__ Arem-arem __end_entity__ __start_type__ region __end_type__ __start_value__ Indonesia __end_value__ 
+__start_entity__ Arrabbiata sauce __end_entity__ __start_type__ mainIngredients __end_type__ __start_value__ Tomatoes, red chili, garlic, olive oil __end_value__ 
+__start_entity__ Arròs negre __end_entity__ __start_type__ ingredient __end_type__ __start_value__ Cuttlefish __end_value__ 
+__start_entity__ Arròs negre __end_entity__ __start_type__ ingredient __end_type__ __start_value__ Squid __end_value__ 
+__start_entity__ Asam pedas __end_entity__ __start_type__ country __end_type__ __start_value__ Malaysia __end_value__ 
+__start_entity__ Avocado __end_entity__ __start_type__ genus __end_type__ __start_value__ Persea __end_value__ 
+__start_entity__ Ayam penyet __end_entity__ __start_type__ servingTemperature __end_type__ __start_value__ Hot __end_value__ 
+__start_entity__ Baked Alaska __end_entity__ __start_type__ course __end_type__ __start_value__ Dessert __end_value__ 
+__start_entity__ Bakewell tart __end_entity__ __start_type__ ingredient __end_type__ __start_value__ Frangipane __end_value__ 
+__start_entity__ Bakso __end_entity__ __start_type__ ingredient __end_type__ __start_value__ Noodle __end_value__ 
+__start_entity__ Bakso __end_entity__ __start_type__ ingredient __end_type__ __start_value__ Vermicelli __end_value__ 
+__start_entity__ Bandeja paisa __end_entity__ __start_type__ ingredient __end_type__ __start_value__ Chorizo __end_value__ 
+__start_entity__ Barny Cakes __end_entity__ __start_type__ creator __end_type__ __start_value__ Mondelez International __end_value__ 
+__start_entity__ Barny Cakes __end_entity__ __start_type__ dishVariation __end_type__ __start_value__ Chocolate __end_value__ 
+__start_entity__ Barny Cakes __end_entity__ __start_type__ protein __end_type__ __start_value__ 1.8 g __end_value__ 
+__start_entity__ Batchoy __end_entity__ __start_type__ country __end_type__ __start_value__ Philippines __end_value__ 
+__start_entity__ Batchoy __end_entity__ __start_type__ ingredient __end_type__ __start_value__ Chicken __end_value__ 
+__start_entity__ Batchoy __end_entity__ __start_type__ ingredient __end_type__ __start_value__ Vegetable __end_value__ 
+__start_entity__ Binignit __end_entity__ __start_type__ region __end_type__ __start_value__ Visayas __end_value__ 
+__start_entity__ Derbyshire Dales __end_entity__ __start_type__ leaderName __end_type__ __start_value__ Patrick McLoughlin __end_value__ 
+__start_entity__ Dessert __end_entity__ __start_type__ dishVariation __end_type__ __start_value__ Cake __end_value__ 
+__start_entity__ Dessert __end_entity__ __start_type__ dishVariation __end_type__ __start_value__ Ice cream __end_value__ 
+__start_entity__ Indonesia __end_entity__ __start_type__ leaderName __end_type__ __start_value__ Jusuf Kalla __end_value__ 
+__start_entity__ Italy __end_entity__ __start_type__ demonym __end_type__ __start_value__ Italians __end_value__ 
+__start_entity__ Java __end_entity__ __start_type__ ethnicGroup __end_type__ __start_value__ Baduy __end_value__ 
+__start_entity__ Lemon __end_entity__ __start_type__ order __end_type__ __start_value__ Rosids __end_value__ 
+__start_entity__ Mexico __end_entity__ __start_type__ demonym __end_type__ __start_value__ Mexicans __end_value__ 
+__start_entity__ Mexico __end_entity__ __start_type__ language __end_type__ __start_value__ Spanish language __end_value__ 
+__start_entity__ Philippines __end_entity__ __start_type__ language __end_type__ __start_value__ Arabic __end_value__ 
+__start_entity__ Siomay __end_entity__ __start_type__ dishVariation __end_type__ __start_value__ Shumai __end_value__ 
+__start_entity__ United States __end_entity__ __start_type__ ethnicGroup __end_type__ __start_value__ Native Americans in the United States __end_value__ 
+__start_entity__ 1955 Dodge __end_entity__ __start_type__ alternativeName __end_type__ __start_value__ Dodge Coronet __end_value__ 
+__start_entity__ 1955 Dodge __end_entity__ __start_type__ engine __end_type__ __start_value__ 230 (cubic inches) __end_value__ 
+__start_entity__ AIDA Cruises __end_entity__ __start_type__ location __end_type__ __start_value__ Rostock __end_value__ 
+__start_entity__ AIDAluna __end_entity__ __start_type__ activeYearsStartDate __end_type__ __start_value__ 2009-03-22 __end_value__ 
+__start_entity__ AIDAluna __end_entity__ __start_type__ shipClass __end_type__ __start_value__ Sphinx class cruise ship __end_value__ 
+__start_entity__ AIDAstella __end_entity__ __start_type__ builder __end_type__ __start_value__ Meyer Werft __end_value__ 
+__start_entity__ AIDAstella __end_entity__ __start_type__ christeningDate __end_type__ __start_value__ 2013-03-16 __end_value__ 
+__start_entity__ AIDAstella __end_entity__ __start_type__ shipInService __end_type__ __start_value__ 2013-03-17 __end_value__ 
+__start_entity__ ALCO RS-3 __end_entity__ __start_type__ engine __end_type__ __start_value__ Four-stroke engine __end_value__ 
+__start_entity__ ALV X-1 __end_entity__ __start_type__ manufacturer __end_type__ __start_value__ Alliant Techsystems __end_value__ 
+__start_entity__ AMC Matador __end_entity__ __start_type__ relatedMeanOfTransportation __end_type__ __start_value__ AMC Ambassador __end_value__ 
+__start_entity__ Abarth 1000 GT Coupé __end_entity__ __start_type__ productionEndYear __end_type__ __start_value__ 1958 __end_value__ 
+__start_entity__ Acura TLX __end_entity__ __start_type__ engine __end_type__ __start_value__ 3.5 (litres) __end_value__ 
+__start_entity__ Acura TLX __end_entity__ __start_type__ engine __end_type__ __start_value__ Honda K engine __end_value__ 
+__start_entity__ Acura TLX __end_entity__ __start_type__ transmission __end_type__ __start_value__ 9-speed ZF 9HP automatic (V6) __end_value__ 
+__start_entity__ Alfa Romeo 164 __end_entity__ __start_type__ class __end_type__ __start_value__ Executive car __end_value__ 
+__start_entity__ Alfa Romeo 164 __end_entity__ __start_type__ relatedMeanOfTransportation __end_type__ __start_value__ Fiat Croma __end_value__ 
+__start_entity__ Alhambra __end_entity__ __start_type__ maidenVoyage __end_type__ __start_value__ 1855-07-07 __end_value__ 
+__start_entity__ Alhambra __end_entity__ __start_type__ shipBeam __end_type__ __start_value__ 8.3 m __end_value__ 
+__start_entity__ Alhambra __end_entity__ __start_type__ topSpeed __end_type__ __start_value__ 18.52 __end_value__ 
+__start_entity__ Antares (rocket) __end_entity__ __start_type__ finalFlight __end_type__ __start_value__ 2014-10-28 __end_value__ 
+__start_entity__ Ariane 5 __end_entity__ __start_type__ maidenFlight __end_type__ __start_value__ 2005-08-11 __end_value__ 
+__start_entity__ Ariane 5 __end_entity__ __start_type__ manufacturer __end_type__ __start_value__ Airbus Defence and Space __end_value__ 
+__start_entity__ Atlas II __end_entity__ __start_type__ countryOrigin __end_type__ __start_value__ United States __end_value__ 
+__start_entity__ Atlas II __end_entity__ __start_type__ finalFlight __end_type__ __start_value__ 1998-03-16 __end_value__ 
+__start_entity__ Audi __end_entity__ __start_type__ division __end_type__ __start_value__ Audi e-tron __end_value__ 
+__start_entity__ Audi A1 __end_entity__ __start_type__ assembly __end_type__ __start_value__ Audi Brussels __end_value__ 
+__start_entity__ Caterpillar Inc. __end_entity__ __start_type__ foundationPlace __end_type__ __start_value__ California __end_value__ 
+__start_entity__ Caterpillar Inc. __end_entity__ __start_type__ keyPerson __end_type__ __start_value__ Douglas R. Oberhelman __end_value__ 
+__start_entity__ Caterpillar Inc. __end_entity__ __start_type__ location __end_type__ __start_value__ Peoria, Illinois __end_value__ 
+__start_entity__ Delta II __end_entity__ __start_type__ launchSite __end_type__ __start_value__ Cape Canaveral Air Force Station __end_value__ 
+__start_entity__ Finland __end_entity__ __start_type__ language __end_type__ __start_value__ Sami languages __end_value__ 
+__start_entity__ Germany __end_entity__ __start_type__ leaderName __end_type__ __start_value__ Stanislaw Tillich __end_value__ 
+__start_entity__ Guiana Space Centre __end_entity__ __start_type__ headquarter __end_type__ __start_value__ Kourou, French Guiana __end_value__ 
+__start_entity__ Honda __end_entity__ __start_type__ division __end_type__ __start_value__ Acura __end_value__ 
+__start_entity__ Lancia Thema __end_entity__ __start_type__ relatedMeanOfTransportation __end_type__ __start_value__ Alfa Romeo 164 __end_value__ 
+__start_entity__ Meyer Werft __end_entity__ __start_type__ location __end_type__ __start_value__ Germany __end_value__ 
+__start_entity__ Meyer Werft __end_entity__ __start_type__ location __end_type__ __start_value__ Papenburg __end_value__ 
+__start_entity__ Atatürk Monument (İzmir) __end_entity__ __start_type__ designer __end_type__ __start_value__ Pietro Canonica __end_value__ 
+__start_entity__ Atatürk Monument (İzmir) __end_entity__ __start_type__ material __end_type__ __start_value__ Bronze __end_value__ 
+__start_entity__ Azerbaijan __end_entity__ __start_type__ leaderName __end_type__ __start_value__ Artur Rasizade __end_value__ 
+__start_entity__ Baku Turkish Martyrs' Memorial __end_entity__ __start_type__ location __end_type__ __start_value__ Azerbaijan __end_value__ 
+__start_entity__ Baku Turkish Martyrs' Memorial __end_entity__ __start_type__ material __end_type__ __start_value__ Red granite and white marble __end_value__ 
+__start_entity__ Aaron S. Daggett __end_entity__ __start_type__ award __end_type__ __start_value__ Purple Heart __end_value__ 
+__start_entity__ Aaron S. Daggett __end_entity__ __start_type__ battles __end_type__ __start_value__ Battle of Mine Run __end_value__ 
+__start_entity__ Abdul Rahman Ya'kub __end_entity__ __start_type__ inOfficeWhileVicePresident __end_type__ __start_value__ Tuanku Bujang Tuanku Othman __end_value__ 
+__start_entity__ Abdul Taib Mahmud __end_entity__ __start_type__ almaMater __end_type__ __start_value__ University of Adelaide __end_value__ 
+__start_entity__ Abdul Taib Mahmud __end_entity__ __start_type__ region __end_type__ __start_value__ Kota Samarahan __end_value__ 
+__start_entity__ Abdul Taib Mahmud __end_entity__ __start_type__ successor __end_type__ __start_value__ Adenan Satem __end_value__ 
+__start_entity__ Abdul Taib Mahmud __end_entity__ __start_type__ successor __end_type__ __start_value__ Sulaiman Abdul Rahman Taib __end_value__ 
+__start_entity__ Abdulsalami Abubakar __end_entity__ __start_type__ militaryBranch __end_type__ __start_value__ Nigerian Army __end_value__ 
+__start_entity__ Abel Caballero __end_entity__ __start_type__ inOfficeWhileMonarch __end_type__ __start_value__ Juan Carlos I of Spain __end_value__ 
+__start_entity__ Abner W. Sibal __end_entity__ __start_type__ battles __end_type__ __start_value__ World War II __end_value__ 
+__start_entity__ Abraham A. Ribicoff __end_entity__ __start_type__ successor __end_type__ __start_value__ Anthony J. Celebrezze __end_value__ 
+__start_entity__ Adam Koc __end_entity__ __start_type__ award __end_type__ __start_value__ Cross of Valour (Poland) __end_value__ 
+__start_entity__ Adam Koc __end_entity__ __start_type__ deathPlace __end_type__ __start_value__ New York City __end_value__ 
+__start_entity__ Adenan Satem __end_entity__ __start_type__ almaMater __end_type__ __start_value__ University of Adelaide __end_value__ 
+__start_entity__ Adonis Georgiadis __end_entity__ __start_type__ office (workedAt, workedAs) __end_type__ __start_value__ Deputy Minister for Development, Competitiveness and Shipping __end_value__ 
+__start_entity__ Agnes Kant __end_entity__ __start_type__ office (workedAt, workedAs) __end_type__ __start_value__ House of Representatives (Netherlands) __end_value__ 
+__start_entity__ Agnes Kant __end_entity__ __start_type__ residence __end_type__ __start_value__ Netherlands __end_value__ 
+__start_entity__ Airey Neave __end_entity__ __start_type__ award __end_type__ __start_value__ Territorial Decoration __end_value__ 
+__start_entity__ Airey Neave __end_entity__ __start_type__ birthPlace __end_type__ __start_value__ Knightsbridge, London __end_value__ 
+__start_entity__ Airey Neave __end_entity__ __start_type__ serviceStartYear __end_type__ __start_value__ 1935 __end_value__ 
+__start_entity__ Alberto Teisaire __end_entity__ __start_type__ nationality __end_type__ __start_value__ Argentina __end_value__ 
+__start_entity__ Alfred Moore Scales __end_entity__ __start_type__ battles __end_type__ __start_value__ Battle of Chancellorsville __end_value__ 
+__start_entity__ Alfred Moore Scales __end_entity__ __start_type__ battles __end_type__ __start_value__ Overland Campaign __end_value__ 
+__start_entity__ Allan Shivers __end_entity__ __start_type__ battles __end_type__ __start_value__ World War II __end_value__ 
+__start_entity__ Allan Shivers __end_entity__ __start_type__ militaryBranch __end_type__ __start_value__ United States Army __end_value__ 
+__start_entity__ Alvah Sabin __end_entity__ __start_type__ activeYearsEndDate __end_type__ __start_value__ 1857-03-03 __end_value__ 
+__start_entity__ Alvah Sabin __end_entity__ __start_type__ party __end_type__ __start_value__ Whig Party (United States) __end_value__ 
+__start_entity__ Antonis Samaras __end_entity__ __start_type__ successor __end_type__ __start_value__ Konstantinos Mitsotakis __end_value__ 
+__start_entity__ Argentina __end_entity__ __start_type__ leaderName __end_type__ __start_value__ Gabriela Michetti __end_value__ 
+__start_entity__ Austria __end_entity__ __start_type__ language __end_type__ __start_value__ Austrian German __end_value__ 
+__start_entity__ Battle of Fredericksburg __end_entity__ __start_type__ isPartOfMilitaryConflict __end_type__ __start_value__ American Civil War __end_value__ 
+__start_entity__ Edmund J. Davis __end_entity__ __start_type__ deathPlace __end_type__ __start_value__ Austin, Texas __end_value__ 
+__start_entity__ Josef Klaus __end_entity__ __start_type__ almaMater __end_type__ __start_value__ University of Vienna __end_value__ 
+__start_entity__ Juan Perón __end_entity__ __start_type__ party __end_type__ __start_value__ Labour Party (Argentina) __end_value__ 
+__start_entity__ Mike Akhigbe __end_entity__ __start_type__ predecessor __end_type__ __start_value__ Oladipo Diya __end_value__ 
+__start_entity__ Nigerian Air Force __end_entity__ __start_type__ commander __end_type__ __start_value__ Sadique Abubakar __end_value__ 
+__start_entity__ Poland __end_entity__ __start_type__ ethnicGroup __end_type__ __start_value__ Romani people __end_value__ 
+__start_entity__ Poland __end_entity__ __start_type__ language __end_type__ __start_value__ Kashubian language __end_value__ 
+__start_entity__ 1. FC Köln __end_entity__ __start_type__ manager __end_type__ __start_value__ Peter Stöger __end_value__ 
+__start_entity__ 1. FC Magdeburg __end_entity__ __start_type__ season __end_type__ __start_value__ 2014 __end_value__ 
+__start_entity__ A.C. Lumezzane __end_entity__ __start_type__ season __end_type__ __start_value__ 2014–15 Lega Pro __end_value__ 
+__start_entity__ A.D. Isidro Metapán __end_entity__ __start_type__ fullname __end_type__ __start_value__ Asociación Deportiva __end_value__ 
+__start_entity__ A.E Dimitra Efxeinoupolis __end_entity__ __start_type__ fullname __end_type__ __start_value__ A.E Dimitra Efxeinoupolis __end_value__ 
+__start_entity__ A.E Dimitra Efxeinoupolis __end_entity__ __start_type__ season __end_type__ __start_value__ 2014 __end_value__ 
+__start_entity__ A.E Dimitra Efxeinoupolis __end_entity__ __start_type__ season __end_type__ __start_value__ 2014–15 A EPSTH, Greece __end_value__ 
+__start_entity__ A.F.C. Blackpool __end_entity__ __start_type__ numberOfMembers __end_type__ __start_value__ 1500 __end_value__ 
+__start_entity__ A.F.C. Fylde __end_entity__ __start_type__ ground __end_type__ __start_value__ The Fylde __end_value__ 
+__start_entity__ A.S. Gubbio 1910 __end_entity__ __start_type__ ground __end_type__ __start_value__ Italy __end_value__ 
+__start_entity__ A.S. Livorno Calcio __end_entity__ __start_type__ numberOfMembers __end_type__ __start_value__ 19238 __end_value__ 
+__start_entity__ A.S. Roma __end_entity__ __start_type__ season __end_type__ __start_value__ 2014–15 Serie A __end_value__ 
+__start_entity__ AFC Ajax __end_entity__ __start_type__ manager __end_type__ __start_value__ Frank de Boer __end_value__ 
+__start_entity__ AFC Ajax (amateurs) __end_entity__ __start_type__ nickname __end_type__ __start_value__ Joden , Godenzonen __end_value__ 
+__start_entity__ AFC Ajax (amateurs) __end_entity__ __start_type__ numberOfMembers __end_type__ __start_value__ 5000 __end_value__ 
+__start_entity__ AZAL PFK __end_entity__ __start_type__ location __end_type__ __start_value__ Shuvalan, Baku, Azerbaijan __end_value__ 
+__start_entity__ AZ Alkmaar __end_entity__ __start_type__ numberOfMembers __end_type__ __start_value__ 17023 __end_value__ 
+__start_entity__ Agremiação Sportiva Arapiraquense __end_entity__ __start_type__ manager __end_type__ __start_value__ Vica __end_value__ 
+__start_entity__ Agremiação Sportiva Arapiraquense __end_entity__ __start_type__ season __end_type__ __start_value__ 2015 Campeonato Brasileiro Série C __end_value__ 
+__start_entity__ Akron Summit Assault __end_entity__ __start_type__ ground __end_type__ __start_value__ St. Vincent–St. Mary High School __end_value__ 
+__start_entity__ Akron Summit Assault __end_entity__ __start_type__ numberOfMembers __end_type__ __start_value__ 3000 __end_value__ 
+__start_entity__ Amsterdam __end_entity__ __start_type__ part __end_type__ __start_value__ Amsterdam-Centrum __end_value__ 
+__start_entity__ Greece __end_entity__ __start_type__ leader __end_type__ __start_value__ Nikos Voutsis __end_value__ 
+__start_entity__ Gus Poyet __end_entity__ __start_type__ club __end_type__ __start_value__ AEK Athens F.C. __end_value__ 
+__start_entity__ Jens Härtel __end_entity__ __start_type__ club __end_type__ __start_value__ SV Germania Schöneiche __end_value__ 
+__start_entity__ John van den Brom __end_entity__ __start_type__ club __end_type__ __start_value__ AZ Alkmaar __end_value__ 
+__start_entity__ Jorge Humberto Rodríguez __end_entity__ __start_type__ club __end_type__ __start_value__ A.D. Isidro Metapán __end_value__ 
+__start_entity__ Massimo Drago __end_entity__ __start_type__ club __end_type__ __start_value__ Delfino Pescara 1936 __end_value__ 
+__start_entity__ Massimo Drago __end_entity__ __start_type__ club __end_type__ __start_value__ S.S. Chieti Calcio __end_value__ 
+__start_entity__ Olympic Stadium (Athens) __end_entity__ __start_type__ location __end_type__ __start_value__ Marousi __end_value__ 
+__start_entity__ Premier Development League __end_entity__ __start_type__ champions __end_type__ __start_value__ K-W United FC __end_value__ 
+__start_entity__ Stuart Parker (footballer) __end_entity__ __start_type__ club __end_type__ __start_value__ Bury F.C. __end_value__ 
+__start_entity__ Accademia di Architettura di Mendrisio __end_entity__ __start_type__ academicStaffSize __end_type__ __start_value__ 100 __end_value__ 
+__start_entity__ Acharya Institute of Technology __end_entity__ __start_type__ campus __end_type__ __start_value__ In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. __end_value__ 
+__start_entity__ Alba Iulia __end_entity__ __start_type__ country __end_type__ __start_value__ Romania __end_value__ 
+__start_entity__ Alba Iulia __end_entity__ __start_type__ isPartOf __end_type__ __start_value__ Alba County __end_value__ 
+__start_entity__ Romania __end_entity__ __start_type__ patronSaint __end_type__ __start_value__ Andrew the Apostle __end_value__ 
+__start_entity__ School of Business and Social Sciences at the Aarhus University __end_entity__ __start_type__ academicStaffSize __end_type__ __start_value__ 737 __end_value__ 
+__start_entity__ School of Business and Social Sciences at the Aarhus University __end_entity__ __start_type__ country __end_type__ __start_value__ Denmark __end_value__ 
+__start_entity__ 1634: The Bavarian Crisis __end_entity__ __start_type__ author __end_type__ __start_value__ Eric Flint __end_value__ 
+__start_entity__ 1634: The Bavarian Crisis __end_entity__ __start_type__ precededBy __end_type__ __start_value__ The Grantville Gazettes __end_value__ 
+__start_entity__ 1634: The Ram Rebellion __end_entity__ __start_type__ followedBy __end_type__ __start_value__ 1635: The Cannon Law __end_value__ 
+__start_entity__ AIP Advances __end_entity__ __start_type__ EISSN_number __end_type__ __start_value__ 2158 __end_value__ 
+__start_entity__ A Fortress of Grey Ice __end_entity__ __start_type__ mediaType __end_type__ __start_value__ Hardcover __end_value__ 
+__start_entity__ A Long Long Way __end_entity__ __start_type__ ISBN_number __end_type__ __start_value__ 0-670-03380-4 __end_value__ 
+__start_entity__ A Loyal Character Dancer __end_entity__ __start_type__ ISBN_number __end_type__ __start_value__ 1-56947-301-3 __end_value__ 
+__start_entity__ A Severed Wasp __end_entity__ __start_type__ author __end_type__ __start_value__ Madeleine L'Engle __end_value__ 
+__start_entity__ A Wizard of Mars __end_entity__ __start_type__ language __end_type__ __start_value__ English language __end_value__ 
+__start_entity__ Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg __end_entity__ __start_type__ LCCN_number __end_type__ __start_value__ 32024459 __end_value__ 
+__start_entity__ Above the Veil __end_entity__ __start_type__ mediaType __end_type__ __start_value__ Hardcover __end_value__ 
+__start_entity__ Acta Mathematica Hungarica __end_entity__ __start_type__ abbreviation __end_type__ __start_value__ Acta Math. Hungar. __end_value__ 
+__start_entity__ Acta Mathematica Hungarica __end_entity__ __start_type__ academicDiscipline __end_type__ __start_value__ Mathematics __end_value__ 
+__start_entity__ Acta Palaeontologica Polonica __end_entity__ __start_type__ CODEN_code __end_type__ __start_value__ APGPAC __end_value__ 
+__start_entity__ Addiction (journal) __end_entity__ __start_type__ OCLC_number __end_type__ __start_value__ 27367194 __end_value__ 
+__start_entity__ Addiction (journal) __end_entity__ __start_type__ publisher __end_type__ __start_value__ Wiley-Blackwell __end_value__ 
+__start_entity__ Administrative Science Quarterly __end_entity__ __start_type__ LCCN_number __end_type__ __start_value__ 57059226 __end_value__ 
+__start_entity__ Aenir __end_entity__ __start_type__ OCLC_number __end_type__ __start_value__ 45644811 __end_value__ 
+__start_entity__ Alcatraz Versus the Evil Librarians __end_entity__ __start_type__ OCLC_number __end_type__ __start_value__ 78771100 __end_value__ 
+__start_entity__ Alcatraz Versus the Evil Librarians __end_entity__ __start_type__ followedBy __end_type__ __start_value__ Alcatraz Versus the Scrivener's Bones __end_value__ 
+__start_entity__ American Journal of Mathematics __end_entity__ __start_type__ impactFactor __end_type__ __start_value__ 1.337 __end_value__ 
+__start_entity__ Castle (novel) __end_entity__ __start_type__ followedBy __end_type__ __start_value__ Aenir __end_value__ 
+__start_entity__ Cornell University __end_entity__ __start_type__ nickname __end_type__ __start_value__ Cornell Big Red __end_value__ 
+__start_entity__ HIV __end_entity__ __start_type__ genus __end_type__ __start_value__ Lentivirus __end_value__ 
+__start_entity__ John Cowper Powys __end_entity__ __start_type__ notableWork __end_type__ __start_value__ Wolf Solent __end_value__ 
+__start_entity__ United Kingdom __end_entity__ __start_type__ leaderName __end_type__ __start_value__ Elizabeth II __end_value__ 
+__start_entity__ United States __end_entity__ __start_type__ leaderName __end_type__ __start_value__ Joe Biden __end_value__ 
+__start_entity__ Wolf Solent __end_entity__ __start_type__ author __end_type__ __start_value__ John Cowper Powys __end_value__ 
+__start_entity__ Abilene, Texas __end_entity__ __start_type__ areaCode __end_type__ __start_value__ 325 __end_value__ 
+__start_entity__ Abilene, Texas __end_entity__ __start_type__ isPartOf __end_type__ __start_value__ Texas __end_value__ 
+__start_entity__ Albany, Georgia __end_entity__ __start_type__ leaderTitle __end_type__ __start_value__ Mayor __end_value__ 
+__start_entity__ Albany, Oregon __end_entity__ __start_type__ areaTotal __end_type__ __start_value__ 45.97 (square kilometres) __end_value__ 
+__start_entity__ Albany, Oregon __end_entity__ __start_type__ country __end_type__ __start_value__ United States __end_value__ 
+__start_entity__ Albuquerque, New Mexico __end_entity__ __start_type__ leaderTitle __end_type__ __start_value__ Albuquerque City Council __end_value__ 
+__start_entity__ Amarillo, Texas __end_entity__ __start_type__ country __end_type__ __start_value__ United States __end_value__ 
+__start_entity__ Amarillo, Texas __end_entity__ __start_type__ isPartOf __end_type__ __start_value__ Potter County, Texas __end_value__ 
+__start_entity__ Amarillo, Texas __end_entity__ __start_type__ isPartOf __end_type__ __start_value__ United States __end_value__ 
+__start_entity__ Anaheim, California __end_entity__ __start_type__ areaCode __end_type__ __start_value__ 657 __end_value__ 
+__start_entity__ Angola, Indiana __end_entity__ __start_type__ isPartOf __end_type__ __start_value__ Pleasant Township, Steuben County, Indiana __end_value__ 
+__start_entity__ Ann Arbor, Michigan __end_entity__ __start_type__ leaderTitle __end_type__ __start_value__ City Administrator __end_value__ 
+__start_entity__ Ann Arbor, Michigan __end_entity__ __start_type__ leaderTitle __end_type__ __start_value__ Mayor __end_value__ 
+__start_entity__ Ann Arbor, Michigan __end_entity__ __start_type__ populationDensity __end_type__ __start_value__ 1580.7 (inhabitants per square kilometre) __end_value__ 
+__start_entity__ Antioch, California __end_entity__ __start_type__ elevationAboveTheSeaLevel __end_type__ __start_value__ 13.0 __end_value__ 
+__start_entity__ Antioch, California __end_entity__ __start_type__ leaderTitle __end_type__ __start_value__ California's 11th State Assembly district __end_value__ 
+__start_entity__ Arlington, Texas __end_entity__ __start_type__ elevationAboveTheSeaLevel __end_type__ __start_value__ 184.0 __end_value__ 
+__start_entity__ Atlantic County, New Jersey __end_entity__ __start_type__ country __end_type__ __start_value__ United States __end_value__ 
+__start_entity__ Attica, Indiana __end_entity__ __start_type__ isPartOf __end_type__ __start_value__ Fountain County, Indiana __end_value__ 
+__start_entity__ Auburn, Alabama __end_entity__ __start_type__ isPartOf __end_type__ __start_value__ Alabama __end_value__ 
+__start_entity__ California __end_entity__ __start_type__ country __end_type__ __start_value__ United States __end_value__ 
+__start_entity__ Fulton County, Georgia __end_entity__ __start_type__ largestCity __end_type__ __start_value__ Atlanta __end_value__ 
+__start_entity__ Georgia (U.S. state) __end_entity__ __start_type__ country __end_type__ __start_value__ United States __end_value__ 
+__start_entity__ Lee County, Alabama __end_entity__ __start_type__ state __end_type__ __start_value__ Alabama __end_value__ 
+__start_entity__ New Jersey __end_entity__ __start_type__ capital __end_type__ __start_value__ Trenton, New Jersey __end_value__ 
+__start_entity__ Potter County, Texas __end_entity__ __start_type__ state __end_type__ __start_value__ Texas __end_value__ 
+__start_entity__ Tarrant County, Texas __end_entity__ __start_type__ country __end_type__ __start_value__ United States __end_value__ 
+__start_entity__ Washtenaw County, Michigan __end_entity__ __start_type__ largestCity __end_type__ __start_value__ Ann Arbor, Michigan __end_value__ 
+__start_entity__ Asterix (comicsCharacter) __end_entity__ __start_type__ creator __end_type__ __start_value__ René Goscinny __end_value__ 
+__start_entity__ Auron (comicsCharacter) __end_entity__ __start_type__ creator __end_type__ __start_value__ Marv Wolfman __end_value__ 
+__start_entity__ Balder (comicsCharacter) __end_entity__ __start_type__ creator __end_type__ __start_value__ Jack Kirby __end_value__ 
+__start_entity__ Bananaman __end_entity__ __start_type__ broadcastedBy __end_type__ __start_value__ STV __end_value__ 
+__start_entity__ Bananaman __end_entity__ __start_type__ firstAired __end_type__ __start_value__ 1983-10-03 __end_value__ 
+__start_entity__ Bananaman __end_entity__ __start_type__ starring __end_type__ __start_value__ Bill Oddie __end_value__ 
+__start_entity__ Bill Everett __end_entity__ __start_type__ award __end_type__ __start_value__ Eisner Award __end_value__ 
+__start_entity__ Bill Oddie __end_entity__ __start_type__ child __end_type__ __start_value__ Kate Hardie __end_value__ 
+__start_entity__ Bolt (comicsCharacter) __end_entity__ __start_type__ creator __end_type__ __start_value__ Dan Mishkin __end_value__ 
+__start_entity__ Bozo the Iron Man __end_entity__ __start_type__ fullName __end_type__ __start_value__ Hugh Hazzard __end_value__ 
+__start_entity__ John Buscema __end_entity__ __start_type__ award __end_type__ __start_value__ Eagle Award (comics) __end_value__ 
+__start_entity__ Marv Wolfman __end_entity__ __start_type__ award __end_type__ __start_value__ Eagle Award (comics) __end_value__ 
+__start_entity__ Antares (rocket) __end_entity__ __start_type__ finalFlight __end_type__ __start_value__ 2014-10-28 __end_value__ 
+__start_entity__ Ariane 5 __end_entity__ __start_type__ maidenFlight __end_type__ __start_value__ 2005-08-11 __end_value__ 
+__start_entity__ Atlas II __end_entity__ __start_type__ countryOrigin __end_type__ __start_value__ United States __end_value__ 
+__start_entity__ Caterpillar Inc. __end_entity__ __start_type__ keyPerson __end_type__ __start_value__ Douglas R. Oberhelman __end_value__ 
+__start_entity__ Lancia Thema __end_entity__ __start_type__ relatedMeanOfTransportation __end_type__ __start_value__ Alfa Romeo 164 __end_value__ 
+__start_entity__ Abilene, Texas __end_entity__ __start_type__ areaCode __end_type__ __start_value__ 325 __end_value__ 
+__start_entity__ Albany, Georgia __end_entity__ __start_type__ leaderTitle __end_type__ __start_value__ Mayor __end_value__ 
+__start_entity__ Albany, Oregon __end_entity__ __start_type__ areaTotal __end_type__ __start_value__ 45.97 (square kilometres) __end_value__ 
+__start_entity__ Amarillo, Texas __end_entity__ __start_type__ country __end_type__ __start_value__ United States __end_value__ 
+__start_entity__ Amarillo, Texas __end_entity__ __start_type__ isPartOf __end_type__ __start_value__ United States __end_value__ 
+__start_entity__ Anaheim, California __end_entity__ __start_type__ areaCode __end_type__ __start_value__ 657 __end_value__ 
+__start_entity__ Ann Arbor, Michigan __end_entity__ __start_type__ leaderTitle __end_type__ __start_value__ Mayor __end_value__ 
+__start_entity__ Ann Arbor, Michigan __end_entity__ __start_type__ populationDensity __end_type__ __start_value__ 1580.7 (inhabitants per square kilometre) __end_value__ 
+__start_entity__ Antioch, California __end_entity__ __start_type__ elevationAboveTheSeaLevel __end_type__ __start_value__ 13.0 __end_value__ 
+__start_entity__ Georgia (U.S. state) __end_entity__ __start_type__ country __end_type__ __start_value__ United States __end_value__ 
+__start_entity__ Lee County, Alabama __end_entity__ __start_type__ state __end_type__ __start_value__ Alabama __end_value__ 
+__start_entity__ Tarrant County, Texas __end_entity__ __start_type__ country __end_type__ __start_value__ United States __end_value__ 
+__start_entity__ Washtenaw County, Michigan __end_entity__ __start_type__ largestCity __end_type__ __start_value__ Ann Arbor, Michigan __end_value__ 
+__start_entity__ Asterix (comicsCharacter) __end_entity__ __start_type__ creator __end_type__ __start_value__ René Goscinny __end_value__ 
+__start_entity__ Auron (comicsCharacter) __end_entity__ __start_type__ creator __end_type__ __start_value__ Marv Wolfman __end_value__ 
+__start_entity__ Balder (comicsCharacter) __end_entity__ __start_type__ creator __end_type__ __start_value__ Jack Kirby __end_value__ 
+__start_entity__ Bananaman __end_entity__ __start_type__ broadcastedBy __end_type__ __start_value__ STV __end_value__ 
+__start_entity__ Bananaman __end_entity__ __start_type__ firstAired __end_type__ __start_value__ 1983-10-03 __end_value__ 
+__start_entity__ Bananaman __end_entity__ __start_type__ starring __end_type__ __start_value__ Bill Oddie __end_value__ 
+__start_entity__ Bolt (comicsCharacter) __end_entity__ __start_type__ creator __end_type__ __start_value__ Dan Mishkin __end_value__ 
+__start_entity__ Bozo the Iron Man __end_entity__ __start_type__ fullName __end_type__ __start_value__ Hugh Hazzard __end_value__ 
+__start_entity__ Marv Wolfman __end_entity__ __start_type__ award __end_type__ __start_value__ Eagle Award (comics) __end_value__ 
+__start_entity__ Lancia Thema __end_entity__ __start_type__ relatedMeanOfTransportation __end_type__ __start_value__ Alfa Romeo 164 __end_value__ 
