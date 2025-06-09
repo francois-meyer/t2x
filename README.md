@@ -1,5 +1,7 @@
 # T2X
 
+Paper: [Triples-to-isiXhosa (T2X): Addressing the Challenges of Low-Resource Agglutinative Data-to-Text Generation](https://aclanthology.org/2024.lrec-main.1464.pdf)
+
 Triples-to-isiXhosa (T2X) is a data-to-text dataset for isiXhosa. It was constructed by translating part of the English [WebNLG dataset](https://synalp.gitlabpages.inria.fr/webnlg-challenge/challenge_2020/) and consists of triples of (subject, relation, object) mapped to descriptive sentences. It can be used to train sequence-to-sequence models for generating isiXhosa descriptions of structured triple data.
 
 | Example #1              |  |
